@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "rokusenpai",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 7 Pro",
+        "filename": "ProtonPlus-SnowCone-violet-OFFICIAL-20220521_093354.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/SnowCone/violet/ProtonPlus-SnowCone-violet-OFFICIAL-20220521_093354.zip/download",
+        "datetime": 1653125542,
+        "md5": "64f9c39aea18d873bc15713a4ffcfb3e",
+        "sha256": "aa2d93b32b8ea472df5597823f5892dce8bc53ca07d0d288fbce6b2a1d194f3e",
+        "size": 1780639117,
+        "version": "SnowCone"
+    }
+  ]
+}
