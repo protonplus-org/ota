@@ -1,5 +1,11 @@
 ===== 21 may 2022 =====  
 
+* implemented smartspace
+* added offline charging animation
+* Launcher3: Add 5x6, 5x7 and 6x6 default workspaces
+
+===== 21 may 2022 =====  
+
 * May Security Patch merged
 * Rebased on ProtonAOSP 12.3.1
 * Now Official Devices Support OTA updates
