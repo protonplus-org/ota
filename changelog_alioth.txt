@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: POCO F3 (alioth)
+Device maintainer: Iam_PAIN
+
+===== 27 may 2022 =====  
+
+* initial build
