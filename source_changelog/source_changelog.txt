@@ -1,10 +1,10 @@
-===== 21 may 2022 =====  
+===== 08 June 2022 =====  
 
-* implemented smartspace
-* added offline charging animation
-* Launcher3: Add 5x6, 5x7 and 6x6 default workspaces
+* June Security Patch merged
+* based on ProtonAOSP 12.3.2
+* Updated smartspace
 
-===== 21 may 2022 =====  
+===== 21 May 2022 =====  
 
 * May Security Patch merged
 * Rebased on ProtonAOSP 12.3.1
@@ -12,6 +12,9 @@
 * Shifted to Launcher3
 * Dropped lawnicons
 * Disabled remote keyguard animation until it's fixed
+* implemented smartspace
+* added offline charging animation
+* Launcher3: Add 5x6, 5x7 and 6x6 default workspaces
 
 
 ===== 06 April 2022 ===== 
