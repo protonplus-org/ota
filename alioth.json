@@ -4,12 +4,12 @@
         "maintainer": "Iam_PAIN",
         "oem": "Poco",
         "device": "Poco F3",
-        "filename": "ProtonPlus-SnowCone-alioth-OFFICIAL-20220527_152741.zip",
-        "download": "https://sourceforge.net/projects/protonplus/files/SnowCone/alioth/ProtonPlus-SnowCone-alioth-OFFICIAL-20220527_152741.zip/download",
-        "datetime": 1653665247,
-        "md5": "3ce4cabbc81a2d8264b4c661a6db4c81",
-        "sha256": "6429aa168aefe5dbf6e1ecba0c4593b0341b56206e67e9a424ddc4ee73509b4f",
-        "size": 1637567461,
+        "filename": "ProtonPlus-SnowConPe-alioth-OFFICIAL-20220611_170515.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/SnowCone/alioth/ProtonPlus-SnowCone-alioth-OFFICIAL-20220611_170515.zip/download",
+        "datetime": 1654967112,
+        "md5": "2e2163b3c08ff5e7ad85e07d6a50ff7e",
+        "sha256": "2e11794a7eadfb16ba4627afde5bfa1055e206ab246435c9d38a89885d56612e",
+        "size": 1637639923,
         "version": "SnowCone"
     }
   ]
