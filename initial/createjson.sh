@@ -1,18 +1,17 @@
-#!/bin/bash
-# make executable (chmod +x ota/initial/createjson.sh) and run it (./ota/initial/createjson.sh)
+# Run initial/createjson.sh in ota folder
 
-#modify values below
-#leave blank if not used
-codename=""
-devicename="name of device" #ex: OnePlus 7 Pro
-maintainer="Name " #ex: Lup Gabriel (gwolfu)
-oem="OEM" #ex: OnePlus
-zip="protonplus zip" #ex: ProtonPlus-<android version>-<date>-<device codename>-v<proton version>.zip
+maintainer='' # rokusenpai
+devicename='' # Redmi Note 7 Pro
+oem='' # Xiaomi
+zip='' # ProtonPlus-13.0-Stable-violet-OFFICIAL-20220930-155814.zip
+version=`echo $zip | cut -d'-' -f2`-`echo $zip | cut -d'-' -f3`
+device=`echo $zip | cut -d'-' -f4`
+build_date=`echo $zip | cut -d'-' -f6`
 
 
-#don't modify from here
-script_path="${PWD}"
-zip_name=$script_path/out/target/product/$device/$zip
+# don't edit
+script_path=${PWD}/..
+zip_dir=$script_path/out/target/product/$device/$zip
 buildprop=$script_path/out/target/product/$device/system/build.prop
 
 if [ -f $script_path/ota/$device.json ]; then
@@ -21,21 +20,19 @@ fi
 
 linenr=`grep -n "ro.system.build.date.utc" $buildprop | cut -d':' -f1`
 timestamp=`sed -n $linenr'p' < $buildprop | cut -d'=' -f2`
-zip_only=`basename "$zip_name"`
-md5=`md5sum "$zip_name" | cut -d' ' -f1`
-sha256=`sha256sum "$zip_name" | cut -d' ' -f1`
-size=`stat -c "%s" "$zip_name"`
-version=`echo "$zip_only" | cut -d'-' -f2`
+md5=`md5sum $zip_dir | cut -d' ' -f1`
+sha256=`sha256sum $zip_dir | cut -d' ' -f1`
+size=`stat -c "%s" $zip_dir`
 echo "done."
 echo '{
   "response": [
     {
-        "codename": "'$codename'",
+        "codename": "'$device'",
         "devicename": "'$devicename'",
         "maintainer": "'$maintainer'",
         "oem": "'$oem'",
-        "filename": "'$zip_only'",
-        "download": "https://sourceforge.net/projects/protonplus/files/SnowCone/'$device'/'$zip_only'/download",
+        "filename": "'$zip'",
+        "download": "https://github.com/protonplus-org/ota/releases/download/'$version-$device-$build_date'/'$zip'",
         "datetime": '$timestamp',
         "md5": "'$md5'",
         "sha256": "'$sha256'",
@@ -43,4 +40,4 @@ echo '{
         "version": "'$version'"
     }
   ]
-}' >> ota/$device.json
+}' >> $script_path/ota/$device.json
