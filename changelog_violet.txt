@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 7 Pro (violet)
+Device maintainer: rokusenpai
+
+=====  30 Septrmber 2022 =====  
+
+* initial a13
+* previous tree with updated blobs
