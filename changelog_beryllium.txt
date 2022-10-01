@@ -1,8 +1,0 @@
-Highlights & Device Specific Changes:
-Build type: Stable
-Device: POCO F1 (beryllium)
-Device maintainer: AYUSH
-
-===== 24 may 2022 =====  
-
-* initial build

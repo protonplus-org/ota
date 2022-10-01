@@ -1,8 +1,0 @@
-Highlights & Device Specific Changes:
-Build type: Stable
-Device: Mi 10i/Mi 10T Lite/Redmi Note 9 Pro 5G (gauguin)
-Device maintainer: Prajwal and nerdfail
-
-===== 09 june 2022 =====  
-
-* initial build
