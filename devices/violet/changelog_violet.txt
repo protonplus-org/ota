@@ -3,6 +3,10 @@ Build type: Stable
 Device: Redmi Note 7 Pro (violet)
 Device maintainer: rokusenpai
 
+=====  07 October 2022 =====  
+
+* misc fixes
+
 =====  30 Septrmber 2022 =====  
 
 * initial a13

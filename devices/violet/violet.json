@@ -2,16 +2,16 @@
   "response": [
     {
         "codename": "violet",
-        "devicename": "Redmi Note 7 Pro ",
+        "devicename": "Redmi Note 7 pro",
         "maintainer": "rokusenpai",
         "oem": "Xiaomi",
-        "filename": "ProtonPlus-13.0-Stable-violet-OFFICIAL-20221001-135329.zip",
-        "download": "https://github.com/protonplus-org/ota/releases/download/13.0-Stable-violet-20221001/ProtonPlus-13.0-Stable-violet-OFFICIAL-20221001-135329.zip",
-        "datetime": 1664632406,
-        "md5": "2bb4f546d06d90281abd62219f957fcb",
-        "sha256": "8060ebc0267a60325c4fcb676aed3c8736ae88a0e2b3ceae857fbc38aca97707",
-        "size": 1589764557,
-        "version": "13.0-Stable"
+        "filename": "ProtonPlus-13.1-Stable-violet-OFFICIAL-20221007-074458.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.1-Stable-violet-20221007/ProtonPlus-13.1-Stable-violet-OFFICIAL-20221007-074458.zip",
+        "datetime": 1665128643,
+        "md5": "dc5403cc331a90e715fd2aab10b72a92",
+        "sha256": "61b115dfbb4ac30d1a23ad63f89a6bddae9e0b4b98798a83a3546498ae89f35a",
+        "size": 1589470764,
+        "version": "13.1-Stable"
     }
   ]
 }
