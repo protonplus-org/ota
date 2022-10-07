@@ -1,3 +1,14 @@
+===== 07 October 2022 ===== 
+
+* merged android-13.0.0_r8
+* droped backuptools
+* droped lineage theme stub 
+* disabled auto rotation on LS
+* fixed space around network icon
+* updated keyguard clock metrics for GSans Clock font
+* updated updater changelog and fetch file link
+
+
 ===== 01 October 2022 ===== 
 
 * merged android-13.0.0_r4
