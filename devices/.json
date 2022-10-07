@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "",
+        "devicename": "Redmi Note 10",
+        "maintainer": "asarefin",
+        "oem": "Xiaomi",
+        "filename": "",
+        "download": "https://github.com/protonplus-org/ota/releases/download/--/",
+        "datetime": ,
+        "md5": "",
+        "sha256": "",
+        "size": 4096,
+        "version": ""
+    }
+  ]
+}
