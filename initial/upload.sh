@@ -7,7 +7,7 @@ version=`echo $zip | cut -d'-' -f2`-`echo $zip | cut -d'-' -f3`
 device=`echo $zip | cut -d'-' -f4`
 build_date=`echo $zip | cut -d'-' -f6`
 
-git add $device.json && git add changelog_$device.txt && git commit -m "ota: $version-$device-$build_date "
+git add devices/$device/ && git commit -m "ota: $version-$device-$build_date "
 
 git push origin tm 
 

@@ -14,8 +14,8 @@ script_path=${PWD}/..
 zip_dir=$script_path/out/target/product/$device/$zip
 buildprop=$script_path/out/target/product/$device/system/build.prop
 
-if [ -f $script_path/ota/$device.json ]; then
-  rm $script_path/ota/$device.json
+if [ -f $script_path/ota/devices/$device/$device.json ]; then
+  rm $script_path/ota/devices/$device/$device.json
 fi
 
 linenr=`grep -n "ro.system.build.date.utc" $buildprop | cut -d':' -f1`
@@ -40,4 +40,4 @@ echo '{
         "version": "'$version'"
     }
   ]
-}' >> $script_path/ota/$device.json
+}' >> $script_path/ota/devices/$device/$device.json
