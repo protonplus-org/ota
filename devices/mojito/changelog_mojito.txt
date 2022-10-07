@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 10 (mojito/sunny)
+Device maintainer: asarefin
+
+=====  07 October 2022 =====  
+
+* Initial build
