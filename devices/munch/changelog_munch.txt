@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Xiaomi POCO F4 (munch)
+Device maintainer: P Δ Ι Ν && rokusenpai && YASH
+
+=====  08 October 2022 =====  
+
+* initial a13
