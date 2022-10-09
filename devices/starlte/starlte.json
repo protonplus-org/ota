@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "starlte",
+        "devicename": "Samsung Galaxy S9",
+        "maintainer": "Cyder",
+        "oem": "Samsung",
+        "filename": "ProtonPlus-13.1-Stable-starlte-OFFICIAL-20221009-020425.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.1-Stable-starlte-20221009/ProtonPlus-13.1-Stable-starlte-OFFICIAL-20221009-020425.zip",
+        "datetime": 1665281014,
+        "md5": "a4a8e8aea673842dfd42706cde68618b",
+        "sha256": "6c20f68782566319de84a26b6b4e6b90852dd415dcce44f86e0fec4b0831dc4f",
+        "size": 1327726925,
+        "version": "13.1-Stable"
+    }
+  ]
+}
