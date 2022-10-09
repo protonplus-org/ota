@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "star2lte",
+        "devicename": "Samsung Galaxy S9+",
+        "maintainer": "Cyder",
+        "oem": "Samsung",
+        "filename": "ProtonPlus-13.1-Stable-star2lte-OFFICIAL-20221009-005336.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.1-Stable-star2lte-20221009/ProtonPlus-13.1-Stable-star2lte-OFFICIAL-20221009-005336.zip",
+        "datetime": 1665276765,
+        "md5": "880f218807310b236ef6a54a852f67df",
+        "sha256": "6ac6e61a70e5b16a37073ac6b0b88e86f8ec63e34c6b6ddc24a206730c9fe63d",
+        "size": 1327834111,
+        "version": "13.1-Stable"
+    }
+  ]
+}
