@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "crownlte",
+        "devicename": "Samsung Galaxy Note 9",
+        "maintainer": "Cyder",
+        "oem": "Samsung",
+        "filename": "ProtonPlus-13.1-Stable-crownlte-OFFICIAL-20221008-201125.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.1-Stable-crownlte-20221008/ProtonPlus-13.1-Stable-crownlte-OFFICIAL-20221008-201125.zip",
+        "datetime": 1665259826,
+        "md5": "4fbfd073da028f9f47a826dea1a11f96",
+        "sha256": "9c3321570f1c99ec0b9b8213b7b30ab2a8a2055cdd468ef3737ccf4189347c4f",
+        "size": 1328065273,
+        "version": "13.1-Stable"
+    }
+  ]
+}
