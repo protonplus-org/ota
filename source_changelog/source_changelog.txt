@@ -1,3 +1,23 @@
+===== 13 November 2022 ===== 
+
+* Merged November Security Patch
+* Merged android-13.0.0_r15
+* Added Face Unlock
+* Add custom branding in About Phone Page 
+* Added Material3 button from 404
+* Added Data Switch Toggle 
+* Added Quick unlock
+* Added Missing Animation/Images
+* Updated Recovery With Our New Branding
+* Added Repainter support
+* Added Pitch Black Theme
+* Added Burn-in protection
+* Removed restrictions for system audio recording
+* Added an option for Disabling fingerprint wake and unlock
+* Fixes status bar and QS margins and paddinga
+* Fixes Lock screen clock
+
+
 ===== 07 October 2022 ===== 
 
 * merged android-13.0.0_r8
