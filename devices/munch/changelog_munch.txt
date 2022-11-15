@@ -3,6 +3,11 @@ Build type: Stable
 Device: Xiaomi POCO F4 (munch)
 Device maintainer: P Δ Ι Ν && rokusenpai && YASH
 
+===== 16 November 2022 =====
+* Upstreamed Kernel with latest Immensity
+* LDAC & LHDC Support
+* Miscellaneous Fixes
+
 =====  08 October 2022 =====  
 
 * initial a13
