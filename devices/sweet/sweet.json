@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "sweet",
+        "devicename": "Redmi Note 10 Pro/Max",
+        "maintainer": "rokusenpai",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.02-Stable-sweet-OFFICIAL-20221115-081122.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.02-Stable-sweet-20221115/ProtonPlus-13.02-Stable-sweet-OFFICIAL-20221115-081122.zip",
+        "datetime": 1668499879,
+        "md5": "e5dafce967399f3404a331c9c3dba1cc",
+        "sha256": "f4b4d22023820e6075deed3a79f4f7ce969a4c22bc7c9fc4d589ae9d6e157923",
+        "size": 1849405646,
+        "version": "13.02-Stable"
+    }
+  ]
+}

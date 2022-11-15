@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 10 Pro/Max (sweet/sweetin)
+Device maintainer: rokusenpai
+
+===== 15 November 2022 ===== 
+
+* inital build
+
