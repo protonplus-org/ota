@@ -1,0 +1,7 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Mi 10i/Mi 10T Lite/Redmi Note 9 Pro 5G
+Device maintainer: Prajwal and Hridaya
+
+=====  19 November 2022 =====  
+* Initial A13 Build
