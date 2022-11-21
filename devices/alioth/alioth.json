@@ -2,15 +2,15 @@
   "response": [
     {
         "codename": "alioth",
-        "devicename": "Poco F3",
-        "maintainer": "PAIN && rokusenpai",
+        "devicename": "POCO F3",
+        "maintainer": "rokusenpai && PAIN",
         "oem": "Xiaomi",
-        "filename": "ProtonPlus-13.02-Stable-alioth-OFFICIAL-20221113-174711.zip",
-        "download": "https://github.com/protonplus-org/ota/releases/download/13.02-Stable-alioth-20221113/ProtonPlus-13.02-Stable-alioth-OFFICIAL-20221113-174711.zip",
-        "datetime": 1668361447,
-        "md5": "a6203bfe549a5e92f37190fd7dfec631",
-        "sha256": "c4b171955ca6f0b125bfac36088b21fb1c035be345c08a0d7dee1017513b9be2",
-        "size": 1721466241,
+        "filename": "ProtonPlus-13.02-Stable-alioth-OFFICIAL-20221121-052640.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.02-Stable-alioth-20221121/ProtonPlus-13.02-Stable-alioth-OFFICIAL-20221121-052640.zip",
+        "datetime": 1669008312,
+        "md5": "861f0ee3f53352493ba3584370a84766",
+        "sha256": "60699d16f86c255cef50a14eceb1b0ffc8bf46a35a7e82516bcf27b75d8404f6",
+        "size": 1721552800,
         "version": "13.02-Stable"
     }
   ]

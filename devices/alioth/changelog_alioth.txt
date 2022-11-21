@@ -3,6 +3,10 @@ Build type: Stable
 Device: Xiaomi POCO F3 (alioth)
 Device maintainer: P Δ Ι Ν && rokusenpai
 
+===== 21 November 2022 =====
+
+* Hotfix
+
 ===== 14 November 2022 ===== 
 
 * Upstreamed Kernel with latest Immensity Release
