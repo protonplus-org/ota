@@ -5,13 +5,13 @@
         "devicename": "Poco F1",
         "maintainer": "AYUSH",
         "oem": "Xiaomi",
-        "filename": "ProtonPlus-13.1-Stable-beryllium-OFFICIAL-20221011-165801.zip",
-        "download": "https://github.com/protonplus-org/ota/releases/download/13.1-Stable-beryllium-20221011/ProtonPlus-13.1-Stable-beryllium-OFFICIAL-20221011-165801.zip",
-        "datetime": 1665507471,
-        "md5": "8a3e1d78841e96c1aa1b5a6c7120a97e",
-        "sha256": "797cc4e7023cc8eaf2da9d98b00b98995cf708cbbabbea4615c0c8bf06104c96",
-        "size": 1526938677,
-        "version": "13.1-Stable"
+        "filename": "ProtonPlus-13.02-Stable-beryllium-OFFICIAL-20221129-171605.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.02-Stable-beryllium-20221129/ProtonPlus-13.02-Stable-beryllium-OFFICIAL-20221129-171605.zip",
+        "datetime": 1669742161,
+        "md5": "0b8159217221a5942b2917eef8777ef1",
+        "sha256": "b80cba0b828edff0ba3811dd023ce3160627d3e9ae3de8f19313e0e6f1bcf711",
+        "size": 1590355242,
+        "version": "13.02-Stable"
     }
   ]
 }
