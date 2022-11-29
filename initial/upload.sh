@@ -1,7 +1,7 @@
 # before uploading createjson & write changelogs
 # before using this make sure to login using gh
 
-zip='' # ProtonPlus-13.0-Stable-violet-OFFICIAL-20220930-155814.zip
+zip='ProtonPlus-13.02-Stable-beryllium-OFFICIAL-20221129-171605.zip' # ProtonPlus-13.0-Stable-violet-OFFICIAL-20220930-155814.zip
 ab='0' # if device is a/b or a only for a/b=1 a only=0
 version=`echo $zip | cut -d'-' -f2`-`echo $zip | cut -d'-' -f3`
 device=`echo $zip | cut -d'-' -f4`

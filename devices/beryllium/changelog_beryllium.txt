@@ -3,6 +3,22 @@ Build type: Stable
 Device: Poco F1 (beryllium)
 Device maintainer: AYUSH
 
+=====  29 November 2022 =====
+
+* Fixed LDAC completely
+* Fixed Native video calling
+* Fixed Disable Sim option was not showing
+* Fixed wfd
+* Update wfd system blobs from LA.QSSI.13.0.r1-05300-qssi.0 & vendor blobs from OnePlus/OnePlus6/OnePlus6:11/RKQ1.201217.002/2106301530:user/release-keys
+* Update DPM blobs from oplus/ossi/ossi:13/TP1A.220624.003/1663150961427:user/release-keys
+* Update CNE, IMS, QMI & RIL blobs from pyxis-user 11 RKQ1.200826.002 V12.5.2.0.RFCMIXM release-keys
+* Update IMS system blobs from LA.QSSI.12.0.r1-05100-qssi.0
+* Update padding
+* Fixed QS Lag on notification spam
+* Added more dirac presets
+* Added support for Hi-Fi
+* Some misc fixes and improvements
+
 =====  11 October 2022 =====  
 
 * Initial Build

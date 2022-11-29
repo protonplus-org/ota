@@ -1,9 +1,9 @@
 # Run initial/createjson.sh in ota folder
 
-maintainer='' # rokusenpai
-devicename='' # Redmi Note 7 Pro
-oem='' # Xiaomi
-zip='' # ProtonPlus-13.0-Stable-violet-OFFICIAL-20220930-155814.zip
+maintainer='AYUSH' # rokusenpai
+devicename='Poco F1' # Redmi Note 7 Pro
+oem='Xiaomi' # Xiaomi
+zip='ProtonPlus-13.02-Stable-beryllium-OFFICIAL-20221129-171605.zip' # ProtonPlus-13.0-Stable-violet-OFFICIAL-20220930-155814.zip
 version=`echo $zip | cut -d'-' -f2`-`echo $zip | cut -d'-' -f3`
 device=`echo $zip | cut -d'-' -f4`
 build_date=`echo $zip | cut -d'-' -f6`

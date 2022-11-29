@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "",
+        "devicename": "",
+        "maintainer": "",
+        "oem": "",
+        "filename": "",
+        "download": "https://github.com/protonplus-org/ota/releases/download/---/",
+        "datetime": ,
+        "md5": "",
+        "sha256": "",
+        "size": 4096,
+        "version": "-"
+    }
+  ]
+}
