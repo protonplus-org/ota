@@ -1,3 +1,11 @@
+===== 9 January 2023 =====
+
+* Merged January Security Patch
+* Merged android-13.0.0_r24
+* Globally enable the new photo picker
+* Enable the new Privacy Hub for everyone
+* Updated Our Branding in About Page
+
 ===== 13 November 2022 ===== 
 
 * Merged November Security Patch
