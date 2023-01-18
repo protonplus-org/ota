@@ -3,6 +3,11 @@ Build type: Stable
 Device: Poco F1 (beryllium)
 Device maintainer: AYUSH
 
+=====  17 January 2023 =====
+* Fixed wfd completely
+* Some misc bug fixes
+* Added more smoothness
+
 =====  29 November 2022 =====
 
 * Fixed LDAC completely
