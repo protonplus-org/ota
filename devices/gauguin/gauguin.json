@@ -5,13 +5,13 @@
         "devicename": "Mi 10i/Mi 10T Lite/Redmi Note 9 Pro 5G",
         "maintainer": "Prajwal and Hridaya",
         "oem": "Xiaomi",
-        "filename": "ProtonPlus-13.02-Stable-gauguin-OFFICIAL-20221119-111022.zip",
-        "download": "https://github.com/protonplus-org/ota/releases/download/13.02-Stable-gauguin-20221119/ProtonPlus-13.02-Stable-gauguin-OFFICIAL-20221119-111022.zip",
-        "datetime": 1668856219,
-        "md5": "0911770e0ac0e3a91345defc5921de18",
-        "sha256": "c26ec2323c45ac9e73275b5d1d90ce719d6a7ada035de5a3cf9595e4c5f59e92",
-        "size": 2044727573,
-        "version": "13.02-Stable"
+        "filename": "ProtonPlus-13.04-Stable-gauguin-OFFICIAL-20230122-145537.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/gauguin/ProtonPlus-13.04-Stable-gauguin-OFFICIAL-20230122-145537.zip/download",
+        "datetime": 1674399261,
+        "md5": "380068aa5077d7b5a99091fa1c4d97f4",
+        "sha256": "2a119444aac52bf3b60ab4931838e72ba485dbe8ba4b58a39fc96a5f94812cc3",
+        "size": 2284312715,
+        "version": "13.04-Stable"
     }
   ]
 }

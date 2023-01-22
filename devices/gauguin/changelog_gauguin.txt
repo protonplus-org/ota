@@ -3,5 +3,29 @@ Build type: Stable
 Device: Mi 10i/Mi 10T Lite/Redmi Note 9 Pro 5G
 Device maintainer: Prajwal and Hridaya
 
+=====  22 January 2023 =====
+*Updated Kernel to 4.19.265
+*Removed MiUI Camera
+*Added Aperture Camera
+*Switch to FBEv2
+*Implement EROFS
+*Drop thermal-engine
+*Reduced useless loggings
+*Implemented Aperture
+*Move XiaomiParts to /system_ext
+*Switched to common QTI vibrator
+*Dropped FM
+*Implement FUSE passthrough
+*Updated blobs from LA.UM.9.12.r1-14400-SMxx50.QSSI12.0
+*Updated power_profile from CLO
+*Switch to RROs
+*"userdata" is now f2fs-only
+*Dropped sdcardfs
+*Enable Project ID Quota support on userdata
+*Update device fp
+*Switched to common Xiaomi light HAL
+*Remove CLO input boosts
+*Many More things that can't be listed here
+
 =====  19 November 2022 =====  
 * Initial A13 Build
