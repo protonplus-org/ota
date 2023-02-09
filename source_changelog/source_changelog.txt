@@ -1,3 +1,18 @@
+===== 10 February 2023 =====
+* Merged February Security Patch
+* Merged android-13.0.0_r30
+* Added BT Dialog Box
+* Added Aperture
+* Enabled QPR2 QS clock
+* Data/Wifi Tile is Back
+* Fixed Duplicate Carrier Names
+* Moved to Session Based Music Player
+* Added QR Scanner on Lockscreen 
+* Forcefully Disabled Now Playing
+* Disabled Pixel Specific Widgets
+* Updated Walls with Light & Dark variant
+* Shifted to Launcher3
+
 ===== 9 January 2023 =====
 
 * Merged January Security Patch
