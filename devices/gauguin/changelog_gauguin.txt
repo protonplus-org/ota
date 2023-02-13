@@ -4,6 +4,13 @@ Device: Mi 10i/Mi 10T Lite/Redmi Note 9 Pro 5G
 Device maintainer: Prajwal and Hridaya
 
 =====  22 January 2023 =====
+*Rebased Kernel
+*F2FS Compression
+*More Smoothness
+*Better Battery Backup
+*More miscellaneous changes 
+
+=====  22 January 2023 =====
 *Updated Kernel to 4.19.265
 *Removed MiUI Camera
 *Added Aperture Camera
