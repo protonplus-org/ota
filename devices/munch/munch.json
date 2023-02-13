@@ -2,16 +2,16 @@
   "response": [
     {
         "codename": "munch",
-        "devicename": "POCO F4",
+        "devicename": "Poco F4",
         "maintainer": "yohan && rokusenpai && PAIN",
-        "oem": "Xiaomi",
-        "filename": "ProtonPlus-13.02-Stable-munch-OFFICIAL-20221115-181207.zip",
-        "download": "https://github.com/protonplus-org/ota/releases/download/13.02-Stable-munch-20221115/ProtonPlus-13.02-Stable-munch-OFFICIAL-20221115-181207.zip",
-        "datetime": 1668535848,
-        "md5": "0bb00a66957677a4c7f4205a91c98f99",
-        "sha256": "61118239c39740b28f4a6055281b37e0d9b698d3929d3b7b5cd1494ee673f2ba",
-        "size": 1816534727,
-        "version": "13.02-Stable"
+        "oem": "Poco",
+        "filename": "ProtonPlus-13.04-Stable-munch-OFFICIAL-20230213-140333.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.04-Stable-munch-20230213/ProtonPlus-13.04-Stable-munch-OFFICIAL-20230213-140333.zip",
+        "datetime": 1676296934,
+        "md5": "d01399d8ad346377824fa228778eaa4d",
+        "sha256": "0d22cba69a17f6649227786a3e96e5502274b48c9d2e2dbc8adfca0010419882",
+        "size": 1867467923,
+        "version": "13.04-Stable"
     }
   ]
 }
