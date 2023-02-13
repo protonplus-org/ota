@@ -3,6 +3,12 @@ Build type: Stable
 Device: Redmi Note 7 Pro (violet)
 Device maintainer: rokusenpai
 
+=====  13 Februaary 2022 =====
+
+* Kernel Upstreamed
+* Added Aperture
+* Misc Fixes
+
 =====  9 January 2022 =====
 
 * Misc Lag Fixes
