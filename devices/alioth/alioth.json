@@ -3,14 +3,14 @@
     {
         "codename": "alioth",
         "devicename": "Poco F3",
-        "maintainer": "PAIN && rokusenpai",
-        "oem": "Poco",
-        "filename": "ProtonPlus-13.04-Stable-alioth-OFFICIAL-20230109-173218.zip",
-        "download": "https://github.com/protonplus-org/ota/releases/download/13.04-Stable-alioth-20230109/ProtonPlus-13.04-Stable-alioth-OFFICIAL-20230109-173218.zip",
-        "datetime": 1673285462,
-        "md5": "419fb76288288a1501e2c462a8e30af6",
-        "sha256": "79a4bce35accf195057a9c83f1a67bc8d7872506746d1bede0cfb175d15682ca",
-        "size": 1891963299,
+        "maintainer": "rokusenpai && PAIN",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.04-Stable-alioth-OFFICIAL-20230213-133719.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.04-Stable-alioth-20230213/ProtonPlus-13.04-Stable-alioth-OFFICIAL-20230213-133719.zip",
+        "datetime": 1676295358,
+        "md5": "b814f58b111aa285123720256a376bcf",
+        "sha256": "67191eb110477cb6794607ada0f4ed964cfffb2efa42d6047a0b0ad0aebde6c2",
+        "size": 1831046548,
         "version": "13.04-Stable"
     }
   ]

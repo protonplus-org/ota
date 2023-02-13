@@ -3,6 +3,10 @@ Build type: Stable
 Device: Xiaomi POCO F3 (alioth)
 Device maintainer: P Δ Ι Ν && rokusenpai
 
+===== 13 February 2023 =====
+
+* Misc. Fixes and Added Smoothness
+
 ===== 9 January 2023 =====
 
 * January Patch Build
