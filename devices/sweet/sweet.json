@@ -2,16 +2,16 @@
   "response": [
     {
         "codename": "sweet",
-        "devicename": "Redmi Note 10 Pro/Max",
+        "devicename": "Redmi Note 10 Pro",
         "maintainer": "rokusenpai",
         "oem": "Xiaomi",
-        "filename": "ProtonPlus-13.02-Stable-sweet-OFFICIAL-20221115-081122.zip",
-        "download": "https://github.com/protonplus-org/ota/releases/download/13.02-Stable-sweet-20221115/ProtonPlus-13.02-Stable-sweet-OFFICIAL-20221115-081122.zip",
-        "datetime": 1668499879,
-        "md5": "e5dafce967399f3404a331c9c3dba1cc",
-        "sha256": "f4b4d22023820e6075deed3a79f4f7ce969a4c22bc7c9fc4d589ae9d6e157923",
-        "size": 1849405646,
-        "version": "13.02-Stable"
+        "filename": "ProtonPlus-13.05-Stable-sweet-OFFICIAL-20230219-143433.zip",
+        "download": "https://github.com/protonplus-org/ota/releases/download/13.05-Stable-sweet-20230219/ProtonPlus-13.05-Stable-sweet-OFFICIAL-20230219-143433.zip",
+        "datetime": 1676897607,
+        "md5": "267b63daf21c1040d99a6076d0c85d11",
+        "sha256": "394cdd7d4107a2fadc2802c7819f51e530c7273649f1878193c1027024facabf",
+        "size": 2038764300,
+        "version": "13.05-Stable"
     }
   ]
 }

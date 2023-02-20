@@ -3,6 +3,20 @@ Build type: Stable
 Device: Redmi Note 10 Pro/Max (sweet/sweetin)
 Device maintainer: rokusenpai
 
+===== 20 February 2023 =====
+
+* cleanup rootdir
+* labeled remaining sepolicy
+* imported missing blobs
+* tuned powerhint 
+* added dolby atmos
+* fixed yt player issue from previous build
+* fixed chrome issue from previous build
+* updated blobs from V13.0.16.0.SKFMIXM
+* merged LA.UM.9.1.r1-13000-SMxxx0.QSSI12.0 tag to kernel
+* added Pixel Launcher, Wallpaper,Themepicker (since rom uses aosp ones)
+* Misc changes and fixes
+
 ===== 15 November 2022 ===== 
 
 * inital build
