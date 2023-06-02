@@ -1,0 +1,29 @@
+===== 01 June 2023 =====
+
+* May Security Patch
+* Merged android-13.0.0_r43
+* Add ringtone settings for multi sim
+* Add QS footer data usage
+* Added lockscreen media art
+* Added App lock
+* Added long press to skip tracks 
+* Added adaptive playback 
+* Aded Google's battery widget
+* Added support for aod while charging
+* Added statusbar tuner
+* Implemented Network traffic indicators
+* Added FPS QS tile
+* Added Compass QS tile
+* Added icon shapes
+* Added icon packs
+* Added fonts
+* Added Assistant colours
+* Implement Smartspace
+* Implement Blutooth dialog
+* Added 5G+ silk icon
+* Added Pixel offline charging animation
+* Added Pixel charger animation
+* Fixed QR scanner
+* Updated gapps package from cheetah-tq2a.230505.002
+* Added support for vanilla build
+* Updated apps for vanilla build
