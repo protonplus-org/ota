@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "beryllium",
+        "devicename": "Poco F1",
+        "maintainer": "Ayush",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.1-Stable-beryllium-OFFICIAL-Vanilla-20230602-125716.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/beryllium/vanilla/ProtonPlus-13.1-Stable-beryllium-OFFICIAL-Vanilla-20230602-125716.zip/download",
+        "datetime": 1685710452,
+        "md5": "ad7a452c361471a36b9902099d23b5fb",
+        "sha256": "6037aab17b27184f625f2b35923fe2b7cc94258182648bd9b926a549bbb6418d",
+        "size": 974010456,
+        "version": "13.1-Stable"
+    }
+  ]
+}

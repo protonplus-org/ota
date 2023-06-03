@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F1 (beryllium)
+Device maintainer: Ayush
+
+=====  03 June 2023 =====
+* Upstreamed with source
+* Added MiSound scenes
+* Added Clear Speaker support
+* Added Support for Aperture camera
+* Removed pocketmode
+* Remove aptX(HD) encoder shared libs
+* Enable suspend to ram
+* Updated GPS blobs from PNX_00WW_FIH-user-11-RKQ1.200906.002-00WW_6_21F-release-keys
