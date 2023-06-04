@@ -1,0 +1,17 @@
+{
+    "response": [
+      {
+          "codename": "lancelot",
+          "devicename": "Redmi 9 / Poco M2",
+          "maintainer": "Orkun Ergün",
+          "oem": "Xiaomi",
+          "filename": "ProtonPlus-13.1-Stable-lancelot-OFFICIAL-Vanilla-20230603-142725.zip",
+          "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/lancelot/vanilla/ProtonPlus-13.1-Stable-lancelot-OFFICIAL-Vanilla-20230603-142725.zip/download",
+          "datetime": 1685802367,
+          "md5": "69af5faa64ed98c4c85acaef1c773576",
+          "sha256": "bcda352d232b9dbe6e26d05927ca96d59ad0722a38fc9165f027cb4556bdb1b2",
+          "size": 1050241189,
+          "version": "13.1-Stable"
+      }
+    ]
+}
