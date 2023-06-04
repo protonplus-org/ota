@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi 9 / Poco M2 (lancelot)
+Device maintainer: Orkun Ergün
+
+=====  04 June 2023 =====
+* Initial OFFICIAL Release
+* Debloated some unnecessary apps
+* Upstream kernel to 4.14.316
+* Misc. improvements
