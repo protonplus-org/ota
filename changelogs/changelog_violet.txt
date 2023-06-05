@@ -1,0 +1,7 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 7 Pro (violet)
+Device maintainer: PAIN
+
+=====  05 June 2023 =====
+* QPR2 Release

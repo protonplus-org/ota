@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "violet",
+        "devicename": "Redmi Note 7 Pro",
+        "maintainer": "PAIN",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.1-Stable-violet-OFFICIAL-20230605-173018.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/violet/gapps/ProtonPlus-13.1-Stable-violet-OFFICIAL-20230605-173018.zip/download",
+        "datetime": 1685986217,
+        "md5": "9be069a0428c4b69c52bca933549ee08",
+        "sha256": "a7df2025663754082661454a89d992f9cbce53227836ccf65b4dfa7eb8108887",
+        "size": 1816332290,
+        "version": "13.1-Stable"
+    }
+  ]
+}
