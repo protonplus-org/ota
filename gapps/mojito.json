@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "mojito",
+        "devicename": "Redmi Note 10",
+        "maintainer": "Arefin",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.1-Stable-mojito-OFFICIAL-20230605-211337.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/mojito/gapps/ProtonPlus-13.1-Stable-mojito-OFFICIAL-20230605-211337.zip/download",
+        "datetime": 1685999533,
+        "md5": "17cc921fd5ed598edc71660846740f92",
+        "sha256": "b97bd128050401679c0063f62d2e227a4132480be9eea3de7efcadec41745f60",
+        "size": 1814769350,
+        "version": "13.1-Stable"
+    }
+  ]
+}
