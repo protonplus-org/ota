@@ -3,6 +3,10 @@ Build type: Stable
 Device: Redmi 9 / Poco M2 (lancelot)
 Device maintainer: Orkun Ergün
 
+=====  06 June 2023 =====
+* Fixed OTA
+* Improved status bar clock padding
+
 =====  04 June 2023 =====
 * Initial OFFICIAL Release
 * Debloated some unnecessary apps
