@@ -1,0 +1,7 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 10 Pro/Pro Max (sweet/sweetin)
+Device maintainer: Alen24
+
+=====  06 June 2023 =====
+*  Initial QPR2 release.
