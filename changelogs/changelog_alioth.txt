@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F3 (alioth)
+Device maintainer: Yoriscape & PAIN
+
+=====  08 June 2023 =====
+* Initial QPR2 Release
+* Fully Rebased Trees
+* Added Dolby Atmos
+* Added DC Dimming
+* Fixed Padding on Statusbar
+* Misc. Changes

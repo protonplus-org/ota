@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "alioth",
+        "devicename": "Poco F3",
+        "maintainer": "Yoriscape & PAIN",
+        "oem": "Poco",
+        "filename": "ProtonPlus-13.1-Stable-alioth-OFFICIAL-20230608-044745.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/alioth/gapps/ProtonPlus-13.1-Stable-alioth-OFFICIAL-20230608-044745.zip/download",
+        "datetime": 1686199663,
+        "md5": "335998adfa4cd3cd0b99e119ae46a040",
+        "sha256": "8c3e13769dab818fa3e63210f07f8733a7fc2bcdcadc9bb7baef86676de82447",
+        "size": 1857841667,
+        "version": "13.1-Stable"
+    }
+  ]
+}
