@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F4 (munch)
+Device maintainer: Asad & Yohan & Yoriscape
+
+=====  17 June 2023 =====
+* Initial QPR2 Update
+* Updated Blobs
+* Fixed QS Lag
+* Added Dolby Atmos
+* Upstreamed Kernel
+* Added 5G and related feature support
