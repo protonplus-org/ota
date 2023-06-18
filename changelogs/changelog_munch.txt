@@ -3,6 +3,10 @@ Build type: Stable
 Device: Poco F4 (munch)
 Device maintainer: Asad & Yohan & Yoriscape
 
+=====  18 June 2023 =====
+* Fixed Dolby Atmos
+* Updated Statusbar Padding
+
 =====  17 June 2023 =====
 * Initial QPR2 Update
 * Updated Blobs
