@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "lime",
+        "devicename": "lime",
+        "maintainer": "ash x sakura",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.1-Stable-lime-OFFICIAL-20230621-050841.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/lime/gapps/ProtonPlus-13.1-Stable-lime-OFFICIAL-20230621-050841.zip/download",
+        "datetime": 1687324066,
+        "md5": "384768ffa7f6b9a9a6c9e7b32332beb2",
+        "sha256": "5b9720ae3c55f7dbb03a6f11fe5b6a469bd29f4e63ec809fd32c6aad8ca93b5a",
+        "size": 1679725036,
+        "version": "13.1-Stable"
+    }
+  ]
+}
