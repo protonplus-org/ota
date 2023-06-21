@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "citrus",
+        "devicename": "citrus",
+        "maintainer": "ash x sakura",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.1-Stable-citrus-OFFICIAL-20230621-043932.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/citrus/gapps/ProtonPlus-13.1-Stable-citrus-OFFICIAL-20230621-043932.zip/download",
+        "datetime": 1687322318,
+        "md5": "4e4f08d9c5d340fd72d96282b9d98bd0",
+        "sha256": "323dfe355aa457a83911db933f4734d5a83c014f56b593427f48f9b6ed3752e9",
+        "size": 1678245015,
+        "version": "13.1-Stable"
+    }
+  ]
+}
