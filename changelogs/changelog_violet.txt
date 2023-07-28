@@ -1,0 +1,30 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 7 Pro (violet)
+Device maintainer: PAIN
+
+=====  05 June 2023 =====
+* QPR2 Release
+
+=====  13 Februaary 2022 =====
+
+* Kernel Upstreamed
+* Added Aperture
+* Misc Fixes
+
+=====  9 January 2022 =====
+
+* Misc Lag Fixes
+
+=====  21 November 2022 =====
+
+* Misc Changes in Audio and System
+
+=====  07 October 2022 =====  
+
+* misc fixes
+
+=====  30 Septrmber 2022 =====  
+
+* initial a13
+* previous tree with updated blobs

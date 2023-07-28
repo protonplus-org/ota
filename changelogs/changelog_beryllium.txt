@@ -1,0 +1,37 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F1 (beryllium)
+Device maintainer: Ayush
+
+=====  03 June 2023 =====
+* Upstreamed with source
+* Added MiSound scenes
+* Added Clear Speaker support
+* Added Support for Aperture camera
+* Removed pocketmode
+* Remove aptX(HD) encoder shared libs
+* Enable suspend to ram
+* Updated GPS blobs from PNX_00WW_FIH-user-11-RKQ1.200906.002-00WW_6_21F-release-keys
+
+=====  17 January 2023 =====
+* Fixed wfd completely
+* Some misc bug fixes
+* Added more smoothness
+
+=====  29 November 2022 =====
+* Fixed LDAC completely
+* Fixed Native video calling
+* Fixed Disable Sim option was not showing
+* Fixed wfd
+* Update wfd system blobs from LA.QSSI.13.0.r1-05300-qssi.0 & vendor blobs from OnePlus/OnePlus6/OnePlus6:11/RKQ1.201217.002/2106301530:user/release-keys
+* Update DPM blobs from oplus/ossi/ossi:13/TP1A.220624.003/1663150961427:user/release-keys
+* Update CNE, IMS, QMI & RIL blobs from pyxis-user 11 RKQ1.200826.002 V12.5.2.0.RFCMIXM release-keys
+* Update IMS system blobs from LA.QSSI.12.0.r1-05100-qssi.0
+* Update padding
+* Fixed QS Lag on notification spam
+* Added more dirac presets
+* Added support for Hi-Fi
+* Some misc fixes and improvements
+
+=====  11 October 2022 =====  
+* Initial Build

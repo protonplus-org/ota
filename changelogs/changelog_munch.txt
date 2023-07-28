@@ -1,0 +1,29 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F4 (munch)
+Device maintainer: Asad & Yohan & Yoriscape
+
+=====  18 June 2023 =====
+* Fixed Dolby Atmos
+* Updated Statusbar Padding
+
+=====  17 June 2023 =====
+* Initial QPR2 Update
+* Updated Blobs
+* Fixed QS Lag
+* Added Dolby Atmos
+* Upstreamed Kernel
+* Added 5G and related feature support
+
+===== 13 February 2023 =====
+* Miscellaneous Fixes
+* Fixed stablity issues
+
+===== 16 November 2022 =====
+* Upstreamed Kernel with latest Immensity
+* LDAC & LHDC Support
+* Miscellaneous Fixes
+
+=====  08 October 2022 =====  
+
+* initial a13

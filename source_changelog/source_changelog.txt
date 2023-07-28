@@ -1,0 +1,88 @@
+===== 01 June 2023 =====
+
+* May Security Patch
+* Merged android-13.0.0_r43
+* Add ringtone settings for multi sim
+* Add QS footer data usage
+* Added lockscreen media art
+* Added App lock
+* Added long press to skip tracks 
+* Added adaptive playback 
+* Aded Google's battery widget
+* Added support for aod while charging
+* Added statusbar tuner
+* Implemented Network traffic indicators
+* Added FPS QS tile
+* Added Compass QS tile
+* Added icon shapes
+* Added icon packs
+* Added fonts
+* Added Assistant colours
+* Implement Smartspace
+* Implement Blutooth dialog
+* Added 5G+ silk icon
+* Added Pixel offline charging animation
+* Added Pixel charger animation
+* Fixed QR scanner
+* Updated gapps package from cheetah-tq2a.230505.002
+* Added support for vanilla build
+* Updated apps for vanilla build
+
+===== 10 February 2023 =====
+* Merged February Security Patch
+* Merged android-13.0.0_r30
+* Added BT Dialog Box
+* Added Aperture
+* Enabled QPR2 QS clock
+* Data/Wifi Tile is Back
+* Fixed Duplicate Carrier Names
+* Moved to Session Based Music Player
+* Added QR Scanner on Lockscreen 
+* Forcefully Disabled Now Playing
+* Disabled Pixel Specific Widgets
+* Updated Walls with Light & Dark variant
+* Shifted to Launcher3
+
+===== 9 January 2023 =====
+
+* Merged January Security Patch
+* Merged android-13.0.0_r24
+* Globally enable the new photo picker
+* Enable the new Privacy Hub for everyone
+* Updated Our Branding in About Page
+
+===== 13 November 2022 ===== 
+
+* Merged November Security Patch
+* Merged android-13.0.0_r15
+* Added Face Unlock
+* Add custom branding in About Phone Page 
+* Added Material3 button from 404
+* Added Data Switch Toggle 
+* Added Quick unlock
+* Added Missing Animation/Images
+* Updated Recovery With Our New Branding
+* Added Repainter support
+* Added Pitch Black Theme
+* Added Burn-in protection
+* Removed restrictions for system audio recording
+* Added an option for Disabling fingerprint wake and unlock
+* Fixes status bar and QS margins and paddinga
+* Fixes Lock screen clock
+
+===== 07 October 2022 ===== 
+
+* merged android-13.0.0_r8
+* droped backuptools
+* droped lineage theme stub 
+* disabled auto rotation on LS
+* fixed space around network icon
+* updated keyguard clock metrics for GSans Clock font
+* updated updater changelog and fetch file link
+
+===== 01 October 2022 ===== 
+
+* merged android-13.0.0_r4
+* adapted almost all of our a12 features
+
+Now we are not a fork rom 

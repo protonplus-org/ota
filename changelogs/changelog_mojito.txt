@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 10 (mojito/sunny)
+Device maintainer: Arefin
+
+=====  06 June 2023 =====
+* Added support for Aperture
+* Fixed QS lag issues
+* Initial QPR2 Release
+* Inlined Zangetsu kernel
+* Misc. improvements.
+
+=====  07 October 2022 =====  
+
+* Initial build
