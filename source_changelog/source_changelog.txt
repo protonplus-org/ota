@@ -1,3 +1,30 @@
+===== 18 August 2023 =====
+
+* August Security Patch
+* Merged android-13.0.0_r67
+* Add support for combined signal icons
+* Add inversion tuning for 3 button navbar
+* Fixup! Disabling gesture bar still used to take some space at the bottom
+* Add switch to link/unlink notification & ringtone volume
+* Add option to scramble pin layout when unlocking
+* Make quick unlock optional
+* Fixup! ringtone wasn't set for sim 2 by default
+* Add option to supress notification sound/vibration if screen is on
+* Add option to schedule always on display
+* Add option to enable or disable apps to access network
+* Add option to force enable LTE_CA
+* Add capability to allow tethering to use VPN upstreams
+* Add delete action in screenshot preview after taking a screenshot
+* Add option to ignore window secure flags
+* Add option to remove ime space under keyboard
+* Implemnet Smart 5G
+* Make aperture default as qr scanner for qr qs tile in vanilla build
+* Re-Implement status bar network traffic & move it to network and internet settings
+* Revamp Launcher3 UI
+* Switch to AOSPA's face unlock implementation
+* Update wallpapers for qpr3 release
+* Update gms from cheetah-user-13-TQ3A.230805.001-10316531-release-keys
+
 ===== 01 June 2023 =====
 
 * May Security Patch
