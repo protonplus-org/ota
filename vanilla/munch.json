@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "munch",
+        "devicename": "Poco F4",
+        "maintainer": "Asad x Yohan x Yoriscape",
+        "oem": "Poco",
+        "filename": "ProtonPlus-13.2-Stable-munch-OFFICIAL-Vanilla-20230818-215815.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/munch/vanilla/ProtonPlus-13.2-Stable-munch-OFFICIAL-Vanilla-20230818-215815.zip/download",
+        "datetime": 1692395845,
+        "md5": "b6055312636031978d2971dd2d396555",
+        "sha256": "fc2e51579943b5aef60489d84c1abbcb14f90668fedea4d43e593535d2ec3375",
+        "size": 1281860809,
+        "version": "13.2-Stable"
+    }
+  ]
+}

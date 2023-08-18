@@ -3,6 +3,16 @@ Build type: Stable
 Device: Poco F4 (munch)
 Device maintainer: Asad & Yohan & Yoriscape
 
+=====  18 August 2023 ====
+* Enable High touch sensitivity feature
+* Updated blobs
+* Added P3 and sRGB Display colours 
+* Added HBM
+* Fixed reboot issue with no carrier
+* Enabled VoNR calls support 
+* Removed DC dimming
+* Fixed gapps build
+
 =====  18 June 2023 =====
 * Fixed Dolby Atmos
 * Updated Statusbar Padding
