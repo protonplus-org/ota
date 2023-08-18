@@ -3,6 +3,11 @@ Build type: Stable
 Device: Poco F1 (beryllium)
 Device maintainer: Ayush
 
+=====  18 August 2023 =====
+* Fixup! Auto Brightness was dead in previous build
+* Added Moto Dolby
+* Some misc fixes and improvements
+
 =====  03 June 2023 =====
 * Upstreamed with source
 * Added MiSound scenes
