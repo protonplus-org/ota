@@ -3,5 +3,25 @@ Build type: Stable
 Device: Redmi Note 10 Pro/Pro Max (sweet/sweetin)
 Device maintainer: Alen24
 
+
+=====  28 August 2023 =====
+* QPR3 Release
+- Disabled zram writeback 
+- Kanged sf props from pixel(raven)
+- gps: tuned down debug log to error only 
+- Addressed citsensorservice denials
+- Added missing nfc entries in manifest
+- Updated system blobs from LA.QSSI.13.0.r1-10000.02-qssi.0 (IMS,RIL,DPM)
+- Updated CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0 
+- Updated OzoProcessing from MIUI V14.0.5.0.TKFEUXM 
+- Disabled wifi firmware debugging
+- Merged latest CAF tags in kernel
+- Upstreamed kernel to 4.14.322
+- Added back Leica camera
+- Used QCOM implementation for audio effects 
+- Added missing seccomp policies
+- Changed Kernel to Meraki
+- Updated dax-default.xml from MIUI
+ 
 =====  06 June 2023 =====
 *  Initial QPR2 release.
