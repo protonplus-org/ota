@@ -3,6 +3,12 @@ Build type: Stable
 Device: Poco F3 (alioth)
 Device maintainer: Yoriscape & PAIN
 
+=====  30 August 2023 =====
+* Initial QPR3 Release 
+* Imroved Device Performance
+* Misc. Changes
+* Fixed LDAC Issues
+
 =====  08 June 2023 =====
 * Initial QPR2 Release
 * Fully Rebased Trees
