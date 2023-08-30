@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "alioth",
+        "devicename": "Mi 11x",
+        "maintainer": "Pain x Yoriscape",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.2-Stable-alioth-OFFICIAL-20230830-162717.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/alioth/gapps/ProtonPlus-13.2-Stable-alioth-OFFICIAL-20230830-162717.zip/download",
+        "datetime": 1693412764,
+        "md5": "c397dc40395de3839d670ea2b6230e7a",
+        "sha256": "19521f88f932caed4fe77f79aeb1e3b4138386b27ee07ba2cdb6c836f089516b",
+        "size": 1854285216,
+        "version": "13.2-Stable"
+    }
+  ]
+}
