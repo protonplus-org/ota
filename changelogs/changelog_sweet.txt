@@ -3,6 +3,11 @@ Build type: Stable
 Device: Redmi Note 10 Pro/Pro Max (sweet/sweetin)
 Device maintainer: Alen24
 
+=====  02 September 2023 =====
+* OTA Release
+- Fixed Flickering after watching YT/MX
+- Reverted dax-default.xml
+- Relax timers for automatic refresh rate switching
 
 =====  28 August 2023 =====
 * QPR3 Release
