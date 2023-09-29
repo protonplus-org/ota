@@ -3,6 +3,12 @@ Build type: Stable
 Device: Redmi Note 10 Pro/Pro Max (sweet/sweetin)
 Device maintainer: Alen24
 
+=====  29 September 2023 =====
+* OTA Release
+- Audio: Disable DRC
+- Dropped some props
+- Some under the hood improvements
+
 =====  02 September 2023 =====
 * OTA Release
 - Fixed Flickering after watching YT/MX

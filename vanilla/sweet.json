@@ -5,13 +5,13 @@
         "devicename": "Redmi Note 10 Pro",
         "maintainer": "Alen24",
         "oem": "Xiaomi",
-        "filename": "ProtonPlus-13.2-Stable-sweet-OFFICIAL-Vanilla-20230902-145310.zip",
-        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/sweet/vanilla/ProtonPlus-13.2-Stable-sweet-OFFICIAL-Vanilla-20230902-145310.zip/download",
-        "datetime": 1693666232,
-        "md5": "055892d324af770ecb8c75eee5526bfa",
-        "sha256": "bb30e305311e67765b0f60ade01135dab68bed9dc739779451f193e1c39b70f9",
-        "size": 1373931262,
-        "version": "13.2-Stable"
+        "filename": "ProtonPlus-13.3-EOL-sweet-OFFICIAL-Vanilla-20230929-095326.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/sweet/vanilla/ProtonPlus-13.3-EOL-sweet-OFFICIAL-Vanilla-20230929-095326.zip/download",
+        "datetime": 1695981163,
+        "md5": "958d1ed02315464b4a8c1788e4a3533b",
+        "sha256": "a9846e21e9906580e90ebaf6e66245bc21ae9d06b04171e9cfdccc0685f90941",
+        "size": 1377255636,
+        "version": "13.3-EOL"
     }
   ]
 }
