@@ -1,3 +1,14 @@
+===== 29 September 2023 =====
+
+* September Security Patch
+* Merged android-13.0.0_r75
+* Added dual-tone light and dark themes for QS
+* Added status bar battery styles
+* Added Sound tile to Quick Settings
+* Added support for custom themed icon pack
+* Updated some themed icons
+* Updated gms from cheetah-user-13-TQ3A.230901.001-10750268-release-keys
+
 ===== 18 August 2023 =====
 
 * August Security Patch
