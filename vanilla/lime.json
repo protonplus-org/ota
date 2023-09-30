@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "lime",
+        "devicename": "REDMI 9T",
+        "maintainer": "ash(hac4us)",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.3-EOL-lime-OFFICIAL-Vanilla-20230930-123516.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/lime/vanilla/ProtonPlus-13.3-EOL-lime-OFFICIAL-Vanilla-20230930-123516.zip/download",
+        "datetime": 1696077273,
+        "md5": "81d4d919e0838f63a9ea0ae5147ab7e6",
+        "sha256": "d8c8993004de8c5c0bf03c857a0d1b5cc07030e753fa7981e129a82f31883c44",
+        "size": 1045413821,
+        "version": "13.3-EOL"
+    }
+  ]
+}
