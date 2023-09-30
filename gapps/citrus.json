@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "codename": "citrus",
+        "devicename": "POCO M3",
+        "maintainer": "ash(hac4us)",
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.3-EOL-citrus-OFFICIAL-20230930-102622.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/citrus/gapps/ProtonPlus-13.3-EOL-citrus-OFFICIAL-20230930-102622.zip/download",
+        "datetime": 1696069540,
+        "md5": "ee0141c4a2d8a8e6e9354bfa86b639a2",
+        "sha256": "ee32a51b63febe80b5f0c9be7139b874297cec3fb48544bd995628944370a633",
+        "size": 1736179952,
+        "version": "13.3-EOL"
+    }
+  ]
+}
