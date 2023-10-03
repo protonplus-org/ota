@@ -4,14 +4,14 @@
         "codename": "munch",
         "devicename": "Poco F4",
         "maintainer": "Asad x Yohan x Yoriscape",
-        "oem": "Poco",
-        "filename": "ProtonPlus-13.2-Stable-munch-OFFICIAL-20230818-211620.zip",
-        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/munch/gapps/ProtonPlus-13.2-Stable-munch-OFFICIAL-20230818-211620.zip/download",
-        "datetime": 1692393325,
-        "md5": "4851da33683d1c8fa5f14dce1589edd5",
-        "sha256": "3d1795d41711277a1ab09eccdac58d51ce60e7094226e9b6beaeb9b09aaa50cf",
-        "size": 1867445846,
-        "version": "13.2-Stable"
+        "oem": "Xiaomi",
+        "filename": "ProtonPlus-13.3-EOL-munch-OFFICIAL-20231003-144644.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/munch/gapps/ProtonPlus-13.3-EOL-munch-OFFICIAL-20231003-144644.zip/download",
+        "datetime": 1696344348,
+        "md5": "2540250dd98bbda03e8cf43df5775f98",
+        "sha256": "0be8c50883ba1ef1940e3c8e86da4013ed10a6dd3e13f6928d1def99f8c96605",
+        "size": 1975661511,
+        "version": "13.3-EOL"
     }
   ]
 }
