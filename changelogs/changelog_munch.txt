@@ -3,6 +3,10 @@ Build type: Stable
 Device: Poco F4 (munch)
 Device maintainer: Asad & Yohan & Yoriscape
 
+=====  03 October 2023 ====
+* added Leica cam
+* addressed a few denials
+
 =====  18 August 2023 ====
 * Enable High touch sensitivity feature
 * Updated blobs
