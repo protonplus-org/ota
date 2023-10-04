@@ -3,6 +3,9 @@ Build type: Stable
 Device: Redmi Note 7 Pro (violet)
 Device maintainer: PAIN
 
+=====  04 October 2023 =====
+*Fully Rebased Trees
+
 =====  18 August 2023 =====
 * QPR3 Release
 * Fixed some issues with both gapps and vanilla
