@@ -5,13 +5,13 @@
         "devicename": "Redmi Note 7 Pro",
         "maintainer": "Iam_PAIN x Asad",
         "oem": "Xiaomi",
-        "filename": "ProtonPlus-13.2-Stable-violet-OFFICIAL-Vanilla-20230818-221108.zip",
-        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/violet/vanilla/ProtonPlus-13.2-Stable-violet-OFFICIAL-Vanilla-20230818-221108.zip/download",
-        "datetime": 1692396614,
-        "md5": "69c1fdfeb64f820356844768f153ccd6",
-        "sha256": "2ddca46f3d3940d416b86ec0012bfd70e6937a6cdcf6aba3537edb51a8f61ec8",
-        "size": 1111929086,
-        "version": "13.2-Stable"
+        "filename": "ProtonPlus-13.3-EOL-violet-OFFICIAL-Vanilla-20231003-175115.zip",
+        "download": "https://sourceforge.net/projects/protonplus/files/Tiramisu/violet/vanilla/ProtonPlus-13.3-EOL-violet-OFFICIAL-Vanilla-20231003-175115.zip/download",
+        "datetime": 1696355311,
+        "md5": "6deb5e33c2b5e3bd2ff97ae3010e1d38",
+        "sha256": "0c1665086bfca61c4c32a15cddddf58fb84c0095706f0d3b3a858d56fcab4828",
+        "size": 987572006,
+        "version": "13.3-EOL"
     }
   ]
 }
